@@ -12,7 +12,7 @@ int main()
     std::cout << "2023/10/11\n";
 
     std::cout << "player作成\n";
-
+  
     std::cout << "マージしてください!!!!!!!!!\n";
 
 
